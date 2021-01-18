@@ -1,18 +1,25 @@
 {
-  "name": "yippi-mp-bridge-mock",
+  "name": "@yippi-open/yippi-mp-bridge-mock",
   "version": "1.0.0",
-  "description": "Yippi mini program bridge mock library.",
+  "description": "Yippi library to help mini program developer to use Yippi's bridge locally.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/togalimited/mini-program-bridge-mock.git"
+  },
   "keywords": [
     "Yippi",
-    "Mini",
-    "Program",
-    "Bridge",
-    "Mock"
+    "mini-program",
+    "mock",
+    "bridge"
   ],
-  "author": "Toga Developer",
-  "license": "MIT"
+  "author": "npmtoga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/togalimited/mini-program-bridge-mock/issues"
+  },
+  "homepage": "https://github.com/togalimited/mini-program-bridge-mock#readme"
 }
