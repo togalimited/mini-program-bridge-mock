@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/togalimited/mini-program-bridge-mock/issues"
   },
-  "homepage": "https://github.com/togalimited/mini-program-bridge-mock#readme"
+  "homepage": "https://github.com/togalimited/mini-program-bridge-mock#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }  
 }
