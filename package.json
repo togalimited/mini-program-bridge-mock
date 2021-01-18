@@ -1,5 +1,5 @@
 {
-  "name": "@yippi-open/yippi-mp-bridge-mock",
+  "name": "@togalimited/yippi-mp-bridge-mock",
   "version": "1.0.0",
   "description": "Yippi library to help mini program developer to use Yippi's bridge locally.",
   "main": "index.js",
