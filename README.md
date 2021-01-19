@@ -2,10 +2,10 @@
 This library design to help Yippi Mini Program developer develop their mini program using Yippi Bridge by mocking function that has same I/O as Yippi's bridge.
 
 ### Installation
-Install from the command line:
-`npm install @togalimited/yippi-mp-bridge-mock`
-Install via package.json:
-`"@togalimited/yippi-mp-bridge-mock": "^1.0"`
+Install from the command line:  
+`npm install @togalimited/yippi-mp-bridge-mock`  
+Install via package.json:  
+`"@togalimited/yippi-mp-bridge-mock": "^1.0"`  
 
 
 ### How to use?
