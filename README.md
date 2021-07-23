@@ -24,13 +24,13 @@ if (process.env.IS_YIPPI_MOCK == "true") {
 Publish from command line:
 change value inside ~/.npmrc to: 
 ```
-//npm.pkg.github.com/:_authToken=<replace-with-your-github-token>
-registry=https://npm.pkg.github.com
+//registry.npmjs.org/:_authToken=<replace-with-your-npmjs-token>
+registry=https://registry.npmjs.org
 ```
 
 run:
 `npm login`
-then login using github username and token
+then login using npm username and password
 
 to publish, run:
-`npm publish`
+`npm publish --access public`
